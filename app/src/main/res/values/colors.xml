@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="opaque_back">#CC000000</color>
+    <color name="dove_grey">#646464</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="bg_tint">#EEEEEE</color>
+    <!--  colors and its theme -->
+    <color name="red">#FF0000</color>
+    <color name="red_bg">#ffb2b2</color>
+    <color name="red_text">#7f0000</color>
+
+    <color name="orange">#f7c628</color>
+    <color name="orange_bg">#ffe4b2</color>
+    <color name="orange_text">#b27300</color>
+
+    <color name="green">#00A56F</color>
+    <color name="green_bg">#cce5cc</color>
+    <color name="green_text">#004c00</color>
+
+    <color name="blue">#0000ff</color>
+    <color name="blue_bg">#0E6FA0</color>
+    <color name="blue_text">#000099</color>
+
+    <color name="purple">#800080</color>
+    <color name="purple_bg">#cc99cc</color>
+    <color name="purple_text">#730073</color>
+</resources> 

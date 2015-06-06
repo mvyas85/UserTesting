@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UserTesting</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="requirments">Requirments</string>
+    <string name="anyone">Anyone can take this test.</string>
+    <string name="reserved_test">This test is reserved for you.</string>
+    <string name="need_assistance">If you need assistence, please contact support@usertesting.com</string>
+    <string name="title_activity_second">SecondActivity</string>
+
+    <string name="take_screener">Take Screeners</string>
+    <string name="id">ID :</string>
+    <string name="state">State :</string>
+    <string name="operating_systems">OS :</string>
+    <string name="introduction">Introduction :</string>
+    <string name="reference_id">Reference ID :</string>
+    <string name="screener">Screener :</string>
+
+</resources>
