@@ -7,7 +7,7 @@
     <string name="anyone">Anyone can take this test.</string>
     <string name="reserved_test">This test is reserved for you.</string>
     <string name="need_assistance">If you need assistence, please contact support@usertesting.com</string>
-    <string name="title_activity_second">SecondActivity</string>
+    <string name="title_activity_second">User Testing App</string>
 
     <string name="take_screener">Take Screeners</string>
     <string name="id">ID :</string>
