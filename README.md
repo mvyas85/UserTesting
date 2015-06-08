@@ -21,3 +21,5 @@ https://s3-us-west-1.amazonaws.com/candidate-test/sample_json
 
 ![Image of Yaktocat](https://github.com/mvyas85/UserTesting/blob/master/screen_capture/sc2.png)
 
+![Image of Yaktocat](https://github.com/mvyas85/UserTesting/blob/master/screen_capture/sc1.png)
+
