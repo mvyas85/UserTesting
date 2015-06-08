@@ -1,5 +1,5 @@
 # UserTesting
-Please create an Android application that makes a network call to the following url, parses the data, and displays it in a list view:
+Android application that makes a network call to the following url, parses the data, and displays it in a list view:
 
 https://s3-us-west-1.amazonaws.com/candidate-test/sample_json
 
