@@ -13,13 +13,11 @@ https://s3-us-west-1.amazonaws.com/candidate-test/sample_json
     Tests should display the type of test and any requirements.
 
 
-![Image of Yaktocat](https://github.com/mvyas85/UserTesting/blob/master/screen_capture/sc1.png)
-
-![Image of Yaktocat](https://github.com/mvyas85/UserTesting/blob/master/screen_capture/sc2.png)
-
-![Image of Yaktocat](https://github.com/mvyas85/UserTesting/blob/master/screen_capture/sc3.png)
+![Image of Yaktocat](https://github.com/mvyas85/UserTesting/blob/master/screen_capture/sc5.png)
 
 ![Image of Yaktocat](https://github.com/mvyas85/UserTesting/blob/master/screen_capture/sc4.png)
 
-![Image of Yaktocat](https://github.com/mvyas85/UserTesting/blob/master/screen_capture/sc5.png)
+![Image of Yaktocat](https://github.com/mvyas85/UserTesting/blob/master/screen_capture/sc3.png)
+
+![Image of Yaktocat](https://github.com/mvyas85/UserTesting/blob/master/screen_capture/sc2.png)
 
