@@ -35,7 +35,7 @@ public class MainActivity extends Activity {
             for(int j= 0; j<urlr.allData.get(i).getOperating_systems().length;j++){
                 isOSAndroid = false;
 
-              //  if(urlr.allData.get(i).getOperating_system(j).equals("android"))
+               if(urlr.allData.get(i).getOperating_system(j).equals("android"))
                 {
                     isOSAndroid = true;
                     break;
